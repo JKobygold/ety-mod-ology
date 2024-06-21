@@ -1,6 +1,6 @@
 Term:**ety-mod-ology**
 
-**Definition**: A neologism/non-word for the study of how one can build models of semantic content with etymological play.
+**Definition**: A neologism/non-word for the study of how one can build models of semantic content with etymology.
 _________________________________________________
 
 **Description of purpose**
