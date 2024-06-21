@@ -1,5 +1,6 @@
-ety-mod-ology
-    A neologism/non-word for the study of how one can build models of semantic content with etymological play.
+Term:**ety-mod-ology**
+
+**Definition**: A neologism/non-word for the study of how one can build models of semantic content with etymological play.
     
 Application used to experiment with a wide array of technologies. The goal is to extract semantic content from etymological information, and build models of alternative meanings of sentences. no idea what will come of project. technologies word. Chat gpt created a stack for me to learn and follow so I' run with it. As of June 24th, I remain ignorant as to how many of these Here we go! 
 
