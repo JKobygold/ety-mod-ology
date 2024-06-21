@@ -1,4 +1,4 @@
-Term:**ety-mod-ology**
+Term:     **ety-mod-ology**
 
 **Definition**: A neologism/non-word for the study of how one can build models of semantic content with etymology.
 _________________________________________________
